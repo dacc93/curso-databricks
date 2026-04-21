@@ -1,2 +1,2 @@
-# curso-databricks
-Proyecto relacionado a CICD en databricks. Github Actions
+# CICDSMARTDATA1304
+proyecto relacionado a cicd en databricks con github actions
